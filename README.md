@@ -51,3 +51,6 @@ Open **script.js** to see the commented TODO steps.
 - [ ] Screenshot added to README.  
 
 Happy coding—set your alarms for midnight! 🌟
+
+![Description of image](img\Screenshot 2025-05-13 224831.png)
+
